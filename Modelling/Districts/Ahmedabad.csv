@@ -1,0 +1,5 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph
+2020-04-26,42,26,0.0,11.6,9,9,22,08:20 AM,10:01 PM,06:10 AM,07:05 PM,15,36,36,35,22,5,39,0.0,1007,42,10,279,16
+2020-04-27,42,26,0.0,11.6,9,9,30,09:06 AM,10:56 PM,06:09 AM,07:05 PM,14,36,36,35,17,3,35,0.0,1008,42,10,281,12
+2020-04-28,44,28,0.0,11.6,9,9,37,09:56 AM,11:52 PM,06:08 AM,07:06 PM,14,38,38,36,16,3,34,0.0,1009,44,10,286,11
+2020-04-29,44,28,0.0,11.6,9,9,45,10:50 AM,No moonset,06:08 AM,07:06 PM,12,37,37,36,25,1,27,0.0,1007,44,10,328,16
